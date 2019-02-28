@@ -1,0 +1,34 @@
+print('ZADANIE 2a')
+
+m=63
+wz=170
+w=25
+S=-161
+k=1.6
+ZK=(10*m+6.25*wz-5*w+S)*k
+
+print('legenda:\nm -masa cia³a w kg\nwz -wzrost w cm\nw -wiek w latach\nS -wspó³czynnik, dla kobiet S=-161, dla mê¿czyzn S=+5\nk = wspó³czynnik okreœlaj¹cy rodzaj aktywnoœci fizycznej:''\nPraca siedz¹ca, brak dodatkowej aktywnoœci fizycznej: 1.2''\nPraca niefizyczna, ma³o aktywny tryb ¿ycia: 1.4''\nLekka praca fizyczna, regularne æwiczenia 3-4 razy (ok. 5h) w tygodniu: 1.6''\nPraca fizyczna, regularne æwiczenia od 5 razy (ok. 7h) w tygodniu: 1.8''\nPraca fizyczna ciê¿ka, regularne æwiczenia 7 razy w tygodniu: 2.0''\nZK=(10*m+6.25*wz-5*w+S)*k''\nZapotrzebowanie kaloryczne dla 25-letniej kobiety o wzroœcie 1.7m i wadze 63kg, która uprawia sport kilka razy w tygodniu wynosi:',ZK,'kcal')
+
+
+print('ZADANIE 2b')
+
+m=57
+wz=173
+w=30
+S=-161
+k=1.4
+ZK=(10*m+6.25*wz-5*w+S)*k
+
+print('legenda:\nm -masa cia³a w kg\nwz -wzrost w cm\nw -wiek w latach\nS -wspó³czynnik, dla kobiet S=-161, dla mê¿czyzn S=+5\nk = wspó³czynnik okreœlaj¹cy rodzaj aktywnoœci fizycznej:''\nPraca siedz¹ca, brak dodatkowej aktywnoœci fizycznej: 1.2''\nPraca niefizyczna, ma³o aktywny tryb ¿ycia: 1.4''\nLekka praca fizyczna, regularne æwiczenia 3-4 razy (ok. 5h) w tygodniu: 1.6''\nPraca fizyczna, regularne æwiczenia od 5 razy (ok. 7h) w tygodniu: 1.8''\nPraca fizyczna ciê¿ka, regularne æwiczenia 7 razy w tygodniu: 2.0''\nZK=(10*m+6.25*wz-5*w+S)*k''\nZapotrzebowanie kaloryczne dla Kini wynosi:',ZK,'kcal')
+
+
+print('ZADANIE 2c')
+
+m=97
+wz=178
+w=32
+S=5
+k=1.4
+ZK=(10*m+6.25*wz-5*w+S)*k
+
+print('legenda:\nm -masa cia³a w kg\nwz -wzrost w cm\nw -wiek w latach\nS -wspó³czynnik, dla kobiet S=-161, dla mê¿czyzn S=+5\nk = wspó³czynnik okreœlaj¹cy rodzaj aktywnoœci fizycznej:''\nPraca siedz¹ca, brak dodatkowej aktywnoœci fizycznej: 1.2''\nPraca niefizyczna, ma³o aktywny tryb ¿ycia: 1.4''\nLekka praca fizyczna, regularne æwiczenia 3-4 razy (ok. 5h) w tygodniu: 1.6''\nPraca fizyczna, regularne æwiczenia od 5 razy (ok. 7h) w tygodniu: 1.8''\nPraca fizyczna ciê¿ka, regularne æwiczenia 7 razy w tygodniu: 2.0''\nZK=(10*m+6.25*wz-5*w+S)*k''\nZapotrzebowanie kaloryczne dla £ukaszka wynosi:',ZK,'kcal')
